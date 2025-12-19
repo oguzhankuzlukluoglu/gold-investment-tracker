@@ -1,0 +1,10 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/yatirim_db
+spring.datasource.username=postgres
+spring.datasource.password=SIFRENIZI_BURAYA_YAZIN
+
+# API Ayarları (CollectAPI)
+collectapi.key=API_KEYINIZI_BURAYA_YAZIN
+
+# Hibernate Ayarları
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
