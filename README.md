@@ -1,6 +1,6 @@
 # Gold Investment Tracker API
 
-A backend application built with **Spring Boot** to manage and track gold investments. 
+# A backend application built with **Spring Boot** to manage and track gold investments. 
 The system integrates with external APIs to fetch live market data and calculates the real-time valuation of your portfolio.
 
 ### Features
